@@ -1,0 +1,3 @@
+This project focuses on analyzing and predicting customer churn in a telecom company using machine learning techniques. The goal is to identify key factors influencing churn and build a predictive model to help the business retain customers.
+
+The dataset contains customer demographic, usage, and account information, along with a churn label indicating whether the customer left the service
